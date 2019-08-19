@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cutscene1.unity
+    guid: 28c037b88ffd2f54b800f88f6d075ed5
+  - enabled: 1
+    path: Assets/Scenes/MainMenu1.unity
+    guid: 3c25a0af176887f46b8bc5bed2b95d82
+  - enabled: 1
+    path: Assets/Scenes/Settings1.unity
+    guid: 455de2f91fd62dc4b86ee90c0f6d4e8f
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cave1.unity
+    guid: 398ea659154fce440a66ff108695b1ae
+  - enabled: 1
+    path: Assets/Scenes/GameOver1.unity
+    guid: a4785482d3af13948bf767551383b603
+  - enabled: 1
+    path: Assets/Scenes/Endless1.unity
+    guid: 681def491b5db6d449c1898a27e04b12
+  - enabled: 1
+    path: Assets/Scenes/Cutscene2.unity
+    guid: f793bb18cbbf3c941bf85cace5238133
+  - enabled: 1
+    path: Assets/Scenes/Credits1.unity
+    guid: 70b473dee2e70a44595725d7596cc18e
+  - enabled: 1
+    path: Assets/Scenes/Info1.unity
+    guid: 33f227e2b3eb32f4faa1fcb3c6e9a06c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial1.unity
+    guid: fee4454e315ec6543b04914ff5cacae7
+  m_configObjects: {}
